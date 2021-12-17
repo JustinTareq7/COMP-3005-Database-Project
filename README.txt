@@ -19,7 +19,7 @@ or work.
 3. As the user, when entering values, be sure that they are up to a certain length. Be aware of these things: ISBN varchar(13), title varchar(40), genre varchar(20), first_name varchar(60),last_name varchar(60), shipping_date varchar(20), street_address varchar(20), city varchar(20), postal_code varchar(6),country varchar(20),card_type varchar(20), card_number varchar(16), card_expiry_date varchar(20), three_digit_code varchar(3), and order_date varchar(20). You'll know when you have
 to enter these values. Also, first_name varchar(60) and last_name varchar(60) are when you're entering
 the information regarding the author as well as the person who is being billed an order and the person
-who is getting a shipped product. 
+who is getting a shipped product. When entering a date, it must be something like this: June 17, 1997. 
 
                             Instructions
                             
