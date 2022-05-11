@@ -11,7 +11,7 @@ import java.lang.*;
 public class Test {
    
 	    private static String postgres_user_id = "postgres";
-        private static String  postgres_password = "Doakes78";
+        private static String  postgres_password = "Shrek7";
         private static Connection connection; 
         private static Scanner sc = new Scanner(System.in);
         private static String user_account_id = ""; 
